@@ -1,0 +1,11 @@
+django>=5.0,<6.0
+djangorestframework>=3.15.0
+djangorestframework-simplejwt>=5.3.1
+django-cors-headers>=4.3.1
+pymongo[srv]>=4.6.1
+google-genai>=2.4.0
+pydantic>=2.6.4
+celery>=5.3.6
+redis>=5.0.3
+python-dotenv>=1.0.1
+requests>=2.31.0

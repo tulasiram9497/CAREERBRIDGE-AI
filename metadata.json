@@ -1,0 +1,6 @@
+{
+  "name": "CareerBridge AI",
+  "description": "AI-powered career networking, opportunity matching, and application automation platform for students, engineers, and researchers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
